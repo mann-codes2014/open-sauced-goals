@@ -1,8 +1,8 @@
 [
   {
     "full_name": "ngrx/platform",
-    "stargazers_count": 8245,
-    "open_issues_count": 73,
+    "stargazers_count": 8246,
+    "open_issues_count": 71,
     "forks_count": 2032
   },
   {
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "EddieHubCommunity/BioDrop",
-    "stargazers_count": 5737,
+    "stargazers_count": 5739,
     "open_issues_count": 72,
-    "forks_count": 4005
+    "forks_count": 4007
   },
   {
     "full_name": "collabnix/kubelabs",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 42891,
+    "stargazers_count": 42922,
     "open_issues_count": 6,
-    "forks_count": 10059
+    "forks_count": 10061
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 24163,
-    "open_issues_count": 271,
-    "forks_count": 1281
+    "stargazers_count": 24186,
+    "open_issues_count": 270,
+    "forks_count": 1285
   },
   {
     "full_name": "danthareja/contribute-to-open-source",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "freeCodeCamp/how-to-contribute-to-open-source",
-    "stargazers_count": 9021,
+    "stargazers_count": 9023,
     "open_issues_count": 79,
     "forks_count": 1859
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 87632,
-    "open_issues_count": 2204,
-    "forks_count": 9672
+    "stargazers_count": 87658,
+    "open_issues_count": 2221,
+    "forks_count": 9677
   },
   {
     "full_name": "mann-codes2014/first-contributions",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 50147,
-    "open_issues_count": 103,
-    "forks_count": 90495
+    "stargazers_count": 50192,
+    "open_issues_count": 171,
+    "forks_count": 90768
   }
 ]
