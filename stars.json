@@ -1,9 +1,9 @@
 [
   {
     "full_name": "ngrx/platform",
-    "stargazers_count": 8248,
-    "open_issues_count": 68,
-    "forks_count": 2039
+    "stargazers_count": 8251,
+    "open_issues_count": 70,
+    "forks_count": 2041
   },
   {
     "full_name": "wangel13/taras.one",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "EddieHubCommunity/BioDrop",
-    "stargazers_count": 5735,
+    "stargazers_count": 5734,
     "open_issues_count": 72,
-    "forks_count": 4015
+    "forks_count": 4020
   },
   {
     "full_name": "collabnix/kubelabs",
@@ -25,33 +25,33 @@
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 43156,
+    "stargazers_count": 43175,
     "open_issues_count": 6,
-    "forks_count": 10098
+    "forks_count": 10102
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 24303,
+    "stargazers_count": 24323,
     "open_issues_count": 283,
-    "forks_count": 1301
+    "forks_count": 1306
   },
   {
     "full_name": "danthareja/contribute-to-open-source",
-    "stargazers_count": 1459,
+    "stargazers_count": 1458,
     "open_issues_count": 197,
-    "forks_count": 1773
+    "forks_count": 1775
   },
   {
     "full_name": "freeCodeCamp/how-to-contribute-to-open-source",
-    "stargazers_count": 9049,
+    "stargazers_count": 9058,
     "open_issues_count": 81,
-    "forks_count": 1861
+    "forks_count": 1862
   },
   {
     "full_name": "Ovi/DummyJSON",
-    "stargazers_count": 2501,
+    "stargazers_count": 2502,
     "open_issues_count": 10,
-    "forks_count": 262
+    "forks_count": 265
   },
   {
     "full_name": "mann-codes2014/social-media-dashboard",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 87914,
-    "open_issues_count": 2219,
-    "forks_count": 9706
+    "stargazers_count": 87938,
+    "open_issues_count": 2231,
+    "forks_count": 9710
   },
   {
     "full_name": "mann-codes2014/first-contributions",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 50769,
-    "open_issues_count": 49,
-    "forks_count": 92448
+    "stargazers_count": 50835,
+    "open_issues_count": 155,
+    "forks_count": 92626
   }
 ]
