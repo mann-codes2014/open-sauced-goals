@@ -1,8 +1,8 @@
 [
   {
     "full_name": "ngrx/platform",
-    "stargazers_count": 8312,
-    "open_issues_count": 68,
+    "stargazers_count": 8313,
+    "open_issues_count": 69,
     "forks_count": 2050
   },
   {
@@ -15,25 +15,25 @@
     "full_name": "EddieHubCommunity/BioDrop",
     "stargazers_count": 5710,
     "open_issues_count": 72,
-    "forks_count": 4043
+    "forks_count": 4046
   },
   {
     "full_name": "collabnix/kubelabs",
-    "stargazers_count": 3090,
+    "stargazers_count": 3092,
     "open_issues_count": 10,
     "forks_count": 1120
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 44572,
+    "stargazers_count": 44574,
     "open_issues_count": 15,
-    "forks_count": 10365
+    "forks_count": 10363
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 24926,
+    "stargazers_count": 24932,
     "open_issues_count": 303,
-    "forks_count": 1381
+    "forks_count": 1379
   },
   {
     "full_name": "danthareja/contribute-to-open-source",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "freeCodeCamp/how-to-contribute-to-open-source",
-    "stargazers_count": 9281,
+    "stargazers_count": 9279,
     "open_issues_count": 90,
     "forks_count": 1864
   },
   {
     "full_name": "Ovi/DummyJSON",
-    "stargazers_count": 2791,
+    "stargazers_count": 2797,
     "open_issues_count": 8,
     "forks_count": 289
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 89910,
-    "open_issues_count": 2196,
-    "forks_count": 10058
+    "stargazers_count": 89941,
+    "open_issues_count": 2144,
+    "forks_count": 10062
   },
   {
     "full_name": "mann-codes2014/first-contributions",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 53971,
-    "open_issues_count": 166,
-    "forks_count": 102614
+    "stargazers_count": 54036,
+    "open_issues_count": 198,
+    "forks_count": 102770
   }
 ]
